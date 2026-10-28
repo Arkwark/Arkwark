@@ -80,22 +80,7 @@
 - **Стек:** SQL (PostgreSQL/ClickHouse).
 
 ---
-
-## 📊 Статистика GitHub
-
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arkwark&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9)](https://github.com/Arkwark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arkwark&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)](https://github.com/Arkwark)
-
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Arkwark&theme=darkhub&no-frame=true&margin-w=15&margin-h=15)](https://github.com/Arkwark)
-
-</div>
-
----
-
-<div align="center">
   
-### 💬 Давай обсудим, как я могу помочь твоему продукту расти с помощью данных!
+### 💬 Открыт к сотрудничеству!
 
 </div>
