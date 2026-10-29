@@ -73,7 +73,7 @@
 
 ### 3. [Анализ эффективности рекламных офферов Starbucks](https://github.com/Arkwark/starbucks-offer-effectiveness-analysis)
 Провел анализ A/B-теста для оценки влияния различных типов офферов на конверсию. Рассчитал статистическую значимость и предложил оптимальную стратегию таргетинга.
-- **Стек:** Python, Pandas, SciPy, Seaborn, Matplotlib, Jupyter Notebook.
+- **Стек:** DataLens, Python, Pandas, SciPy, Seaborn, Matplotlib, Jupyter Notebook.
 
 ### 4. [SQL-анализ задержек и стоимости доставок](https://github.com/Arkwark/logistics-delay-analysis)
 С помощью сложных SQL-запросов (CTE, оконные функции) выявил узкие места в логистике, обнаружил «парадокс опытных водителей» и провел аудит качества данных.
