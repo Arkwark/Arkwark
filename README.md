@@ -67,17 +67,17 @@
 Разработал систему скоринга для распределения рекламного бюджета. Включает EDA, статистические тесты, feature engineering, расчет stability score и построение BCG-матрицы для приоритизации каналов.
 - **Стек:** Python, Pandas, NumPy, SciPy, Matplotlib, Seaborn, Jupyter Notebook.
 
-### 2. [Анализ оттока пользователей (Churn) KKBox](https://github.com/Arkwark/kkbox-churn-analysis)
-Исследовал паттерны оттока на данных стримингового сервиса. Выявил ключевые факторы, влияющие на удержание, и предложил рекомендации по снижению churn rate.
-- **Стек:** Python, Pandas, Seaborn, Matplotlib, Jupyter Notebook.
-
-### 3. [Анализ эффективности рекламных офферов Starbucks](https://github.com/Arkwark/starbucks-offer-effectiveness-analysis)
+### 2. [Анализ эффективности рекламных офферов Starbucks](https://github.com/Arkwark/starbucks-offer-effectiveness-analysis)
 Провел анализ A/B-теста для оценки влияния различных типов офферов на конверсию. Рассчитал статистическую значимость и предложил оптимальную стратегию таргетинга.
 - **Стек:** DataLens, Python, Pandas, SciPy, Seaborn, Matplotlib, Jupyter Notebook.
 
-### 4. [SQL-анализ задержек и стоимости доставок](https://github.com/Arkwark/logistics-delay-analysis)
+### 3. [SQL-анализ задержек и стоимости доставок](https://github.com/Arkwark/logistics-delay-analysis)
 С помощью сложных SQL-запросов (CTE, оконные функции) выявил узкие места в логистике, обнаружил «парадокс опытных водителей» и провел аудит качества данных.
 - **Стек:** SQL (PostgreSQL/ClickHouse).
+
+###4. [Анализ оттока пользователей (Churn) KKBox](https://github.com/Arkwark/kkbox-churn-analysis)
+Исследовал паттерны оттока на данных стримингового сервиса. Выявил ключевые факторы, влияющие на удержание, и предложил рекомендации по снижению churn rate.
+- **Стек:** Python, Pandas, Seaborn, Matplotlib, Jupyter Notebook.
 
 ---
   
