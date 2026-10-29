@@ -75,7 +75,7 @@
 С помощью сложных SQL-запросов (CTE, оконные функции) выявил узкие места в логистике, обнаружил «парадокс опытных водителей» и провел аудит качества данных.
 - **Стек:** SQL (PostgreSQL/ClickHouse).
 
-###4. [Анализ оттока пользователей (Churn) KKBox](https://github.com/Arkwark/kkbox-churn-analysis)
+### 4. [Анализ оттока пользователей (Churn) KKBox](https://github.com/Arkwark/kkbox-churn-analysis)
 Исследовал паттерны оттока на данных стримингового сервиса. Выявил ключевые факторы, влияющие на удержание, и предложил рекомендации по снижению churn rate.
 - **Стек:** Python, Pandas, Seaborn, Matplotlib, Jupyter Notebook.
 
