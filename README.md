@@ -1,6 +1,6 @@
 <div align="center">
 
-# Привет, я Arkwark 👋
+# Привет, я - Алмаз 👋
 
 ### Data Analyst / Product Analyst
 
